@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Megan Risdal</title>
+    <link>https://mrisdal.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Megan Risdal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mrisdal@gmail.com (Megan Risdal)</managingEditor>
+    <webMaster>mrisdal@gmail.com (Megan Risdal)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Fri, 23 Oct 2020 18:47:03 -0700</lastBuildDate>
+    
+        <atom:link href="https://mrisdal.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career</title>
+      <link>https://mrisdal.github.io/blog/categories/career/</link>
+      <pubDate>Fri, 23 Oct 2020 18:47:03 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://mrisdal.github.io/blog/categories/personal/</link>
+      <pubDate>Sun, 03 Jan 2021 02:29:15 -0500</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://mrisdal.github.io/blog/categories/product/</link>
+      <pubDate>Sun, 08 Nov 2020 17:03:30 -0800</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/categories/product/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

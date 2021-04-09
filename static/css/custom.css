@@ -1,0 +1,90 @@
+/* Button */
+.btn {
+	padding: 5px 10px;
+	font-weight: 700;
+	color: #fff;
+    white-space: pre-line;
+    background: #6699cc;
+}
+
+.btn:hover {
+	background: #cc99cc;
+}
+
+/* Typography */
+h2 {
+    color: #99cc99;
+}
+
+a.path {
+    color: #6699cc;
+  }
+
+/* Tags and Categories */
+.tags {
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+	font-size: 18px;
+	font-size: 1.25rem;
+	line-height: 1;
+	color: #fff;
+}
+
+.tags__list {
+    list-style: none;
+    padding: 0;
+	margin: 0;
+}
+
+.tags__item {
+	float: left;
+	margin: 0 6px 6px 0;
+	margin: 0 .375rem .375rem 0;
+	text-transform: uppercase;
+	background: #2d2d2d;
+}
+
+.tags__link,
+.tags__link:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+.categories {
+	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
+	font-size: 18px;
+	font-size: 1.25rem;
+	line-height: 1;
+	color: #fff;
+}
+
+.categories__list {
+	list-style: none;
+    padding: 0;
+	margin: 0;
+}
+
+.categories__item {
+	float: left;
+	margin: 0 6px 6px 0;
+	margin: 0 .375rem .375rem 0;
+	text-transform: uppercase;
+	background: #2d2d2d;
+}
+
+.categories__item:hover {
+	background: #cc99cc;
+}
+
+.categories__link,
+.categories__link:hover {
+	display: block;
+	padding: 10px 15px;
+}
+
+.headline__link,
+.headline__link:hover {
+	display: block;
+	padding: 10px 15px;
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Megan Risdal</title>
+    <link>https://mrisdal.github.io/blog/about/</link>
+    <description>Recent content in About on Megan Risdal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mrisdal@gmail.com (Megan Risdal)</managingEditor>
+    <webMaster>mrisdal@gmail.com (Megan Risdal)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Sat, 06 Oct 2018 19:27:42 -0700</lastBuildDate>
+    
+        <atom:link href="https://mrisdal.github.io/blog/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://mrisdal.github.io/blog/about/about/</link>
+      <pubDate>Sat, 06 Oct 2018 19:27:42 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/about/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;more-about-me&#34;&gt;More about me &amp;hellip;&lt;/h2&gt;
+
+&lt;p&gt;I have two Master&amp;rsquo;s degrees in linguistics, one from UCLA where I had started a PhD and the other from North Carolina State University. I studied laboratory phonology, sociophonetics, and statistical research methods.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m originally from Minnesota, but I&amp;rsquo;ve lived in Wisconsin, France, North Carolina, Pennsylvania, and California (twice!).&lt;/p&gt;
+
+&lt;p&gt;My favorite things are: watching horror and scifi movies, bike riding, discovering new places to eat, going to shows (music and comedy) and struggling to decide what I want to learn next.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s where you can find some of my past work (not necessarily reflective of current work):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My DEV &lt;a href=&#34;https://dev.to/mrisdal&#34;&gt;blog posts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My Medium &lt;a href=&#34;https://medium.com/@meganrisdal&#34;&gt;blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/mrisdal/discussion&#34;&gt;Engaging&lt;/a&gt; with the data science community on Kaggle&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/mrisdal/kernels?sortBy=voteCount&amp;amp;group=profile&amp;amp;pageSize=20&amp;amp;userId=495305&#34;&gt;Writing R or Python code&lt;/a&gt; to analyze data&lt;/li&gt;
+&lt;li&gt;Organizing community challenges, like launching Kaggle&amp;rsquo;s &lt;a href=&#34;http://blog.kaggle.com/2017/11/16/introducing-data-science-for-good-events-on-kaggle/&#34;&gt;&lt;em&gt;Data Science for Good Program&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of this public work was in my &amp;ldquo;20% time&amp;rdquo;. Behind the scenes, I have a lot of fun wearing many hats as a product manager including writing specs, doing user interviews, analyzing data, collaborating with designers and developers, doing research and strategy, writing documentation, getting creative with marketing, etc. I&amp;rsquo;ve even had the opportunity to play developer when I wrote the server-side code to create &lt;a href=&#34;https://www.kaggle.com/kaggle/meta-kaggle&#34;&gt;Meta Kaggle&lt;/a&gt;, Kaggle&amp;rsquo;s public dataset about &amp;hellip; Kaggle.&lt;/p&gt;
+
+&lt;p&gt;I live in North Hollywood, CA with my husband and our cat. I currently work at Kaggle (a Google company) as a Product Lead where I&amp;rsquo;ve worked discontinuously for over 3 years since 2016. Previously I worked at Stack Overflow as a Product Manager for public Q&amp;amp;A.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://mrisdal.github.io/blog/about/resume/</link>
+      <pubDate>Wed, 11 Dec 2019 18:31:39 -0500</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/about/resume/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/gview?a=v&amp;pid=explorer&amp;chrome=false&amp;api=true&amp;embedded=true&amp;srcid=1npExSyo7yWtwUrIAgobD9wD-GKWnn3K4&amp;hl=en&amp;embedded=true&#34; style=&#34;width:600px; height:500px;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mrisdal.github.io/blog/about/contact/</link>
+      <pubDate>Sat, 06 Oct 2018 19:05:18 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/about/contact/</guid>
+      <description>
+
+&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&lt;/h2&gt;
+
+&lt;p&gt;at first initial last name at gmail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

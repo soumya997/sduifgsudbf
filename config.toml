@@ -1,0 +1,28 @@
+baseURL = "https://soumya997.github.io/"
+publishDir = "docs"
+languageCode = "en-us"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
+title = "Soumyadip Sarkar"
+#footnoteReturnLinkContents = "↩"
+theme = "base16"
+sectionPagesMenu = "main"
+pluralizeListTitles = "false"
+googleAnalytics = "G-HYLF993B5K"
+disqusShortname = "my-blog-tqezivxlqb"
+
+[author]
+  name = "Soumyadip Sarkar"
+  email = "soumya997.sarkar@gmail.com"
+  pageNotFoundTitle = "404 - Page not found"
+  authorWebsite = "https://soumya997.github.io/vcv/"
+
+[params]
+  description = "Soumyadip's personal website"
+  images = ["static/img/edited1.png"]
+
+  [params.social]
+    twitter = "Soumya997Sarkar"
+    github = "soumya997"
+
+[permalinks]
+  post =  "/:slug/"
